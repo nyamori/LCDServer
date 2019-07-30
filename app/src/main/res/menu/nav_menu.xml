@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/LCD_now_display"
+            android:title="LCD当前显示"/>
+        <item
+            android:id="@+id/LCD_setting"
+            android:title="LCD设置"/>
+        <item
+            android:id="@+id/link_manager"
+            android:title="连接管理"/>
+        <item
+            android:id="@+id/user_manager"
+            android:title="用户管理"/>
+    </group>
+</menu>
